@@ -7,8 +7,8 @@ import edu.wpi.first.wpilibj.livewindow.LiveWindow;
 import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
-import org.usfirst.frc.team1983.robot.commands.ExampleCommand;
-import org.usfirst.frc.team1983.robot.subsystems.ExampleSubsystem;
+import org.usfirst.frc.team2097.robot.commands.ExampleCommand;
+import org.usfirst.frc.team2097.robot.subsystems.ExampleSubsystem;
 
 /**
  * The VM is configured to automatically run this class, and to call the
